@@ -1,0 +1,27 @@
+/* myStyle.css */
+body {
+ background-color: Orange;
+ color: Black;
+}
+h1 {
+ color: Black;
+ text-align: center;
+ font: italic 200% fantasy;
+}
+p {
+ background-color: Black;
+ color: White;
+ text-align: Left;
+ border: 3px solid white;
+ border-radius: 12px;
+}
+div {
+ border: 3px solid black;
+ border-radius: 12px;
+}
+.img1 {
+ float: left;
+}
+.clearfix {
+ overflow: auto;
+}
