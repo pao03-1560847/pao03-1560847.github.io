@@ -61,6 +61,8 @@ a{
   border: solid 8px black;
 }
 #Footer{
+  list-style-type: none;
+  padding-left: 0px;
   background-color: #8E41D5; 
   text-align: center;
   border: solid 8px black;
