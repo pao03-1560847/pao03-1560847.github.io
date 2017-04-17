@@ -33,6 +33,7 @@ a{
   font-weight: bold;
 }
 #LeftNav{
+  float: left;
   background-color: #8E41D5; 
   padding-bottom: 8px;
   text-align: center;
@@ -43,7 +44,7 @@ a{
   border: solid 8px black;
 }
 #LeftNav img{
-  float: left;
+
 }
 #LeftNav ul{
   list-style-type: none;
