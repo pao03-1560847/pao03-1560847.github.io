@@ -43,9 +43,6 @@ a{
   margin-bottom: 10px;
   border: solid 8px black;
 }
-#LeftNav img{
-
-}
 #LeftNav ul{
   list-style-type: none;
   padding-left: 0px;
@@ -61,9 +58,11 @@ a{
   border: solid 8px black;
 }
 #Footer{
-  list-style-type: none;
-  padding-left: 0px;
   background-color: #8E41D5; 
   text-align: center;
   border: solid 8px black;
+}
+#Footer ul{
+  list-style-type: none;
+  padding-left: 0px;
 }
